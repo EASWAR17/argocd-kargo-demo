@@ -1,0 +1,6 @@
+image:
+  repository: easwar17/basic
+  tag: 1.0.0
+app:
+  name: basic
+  environment: prod
