@@ -1,6 +1,7 @@
 image:
-  repository: easwar17/basic
-  tag: 1.0.0
+  repository: easwar17/nginx
+  tag: "1.0.0"  # This tag will be updated by Kargo during the promotion process
+
 app:
-  name: basic
+  name: nginx
   environment: test
