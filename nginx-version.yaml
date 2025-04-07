@@ -1,2 +1,2 @@
 nginx:
-  version: {{ .Freight.images.0.tag }}
+  version: 0.0.0
