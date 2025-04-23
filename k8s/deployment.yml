@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: 1.0.1
+          image: 1.0.0
           ports:
             - containerPort: 8081
